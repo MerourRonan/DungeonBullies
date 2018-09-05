@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Script\Manager\UIManager.cs">
+    <Files>
+      <File FileName="Assets\Resources\Script\Manager\SpawnManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Script\Actor\Monster\MonsterActor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Script\Projectile\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Script\UI\HeroUI.cs" Line="19" Column="42" />
+      <File FileName="Assets\Resources\Script\Manager\UIManager.cs" Line="14" Column="64" />
+      <File FileName="Assets\Resources\Script\Actor\Hero\HeroActor.cs" Line="7" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
